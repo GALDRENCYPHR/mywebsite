@@ -170,8 +170,8 @@ $(function() {
       transition: 'fade2',
       transitionDuration: 2000,
       slides: [
-        { src: "https://dummyimage.com/1920x1080/4d4d4d/636363" },
-        { src: "https://dummyimage.com/1920x1080/4d4d4d/636363" },
+        { src: "https://res.cloudinary.com/dqvk7tkz7/image/upload/v1689712597/2_zfsv5d.gif" },
+        { src: "https://res.cloudinary.com/dqvk7tkz7/image/upload/v1689712597/2_zfsv5d.gif" },
         { src: "https://dummyimage.com/1920x1080/4d4d4d/636363" }
       ],
       animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
